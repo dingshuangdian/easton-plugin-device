@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-cminfo",
+  "name": "easton-plugin-device",
   "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-cminfo",
+    "id": "easton-plugin-device",
     "platforms": [
       "ios",
       "android"
